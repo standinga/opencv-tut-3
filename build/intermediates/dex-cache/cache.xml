@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michal/AndroidStudioProjects/tutorial-3-cameracontrol/openCVTutorial3CameraControl/build/intermediates/exploded-aar/tutorial-3-cameracontrol/openCVLibrary310/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b0551622cd6d953bb9cde445c337d9d8e10ff03d">
+        <dex dex="/Users/michal/AndroidStudioProjects/tutorial-3-cameracontrol/openCVTutorial3CameraControl/build/intermediates/pre-dexed/debug/tutorial-3-cameracontrol-openCVLibrary310-unspecified_311cac31d00e2bbc7be742a3070e2653786cd3f3.jar" />
+    </item>
+
+</items>
